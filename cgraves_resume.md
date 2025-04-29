@@ -61,7 +61,7 @@ Experienced IT leader and Linux systems engineer with over 17 years in software 
 - Managed multi-platform virtualized environment (VMware, Hyper-V, clustered storage).
 - Supported Active Directory migrations and SAN maintenance.
 
-### Microsoft / Hewlett Packard – Fort Collins, CO  
+### Microsoft – Redmond, wa  
 **Lab Infrastructure Engineer** (Aug 2010 – Jan 2013)
 
 - Supported automated Windows OS development and testing environments across large-scale lab infrastructure.
